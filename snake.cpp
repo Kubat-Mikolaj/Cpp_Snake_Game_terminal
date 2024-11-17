@@ -281,7 +281,7 @@ int Set_Difficulty()
  * Function Name - User_Input
  * Description - This function will handle the user input with switch cases
  * Parameters - None
- * Return - int difficulty
+ * Return - None
  * 
 ************************************************************************************************************/
 
