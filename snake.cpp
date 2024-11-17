@@ -2,7 +2,7 @@
 
 Snake Game in c++ - Version 1.0
 Created by Mikołaj Kubat
-Date: 17/10/2024
+Date: 17/11/2024
 
 Description: This is a simple implementation of the classic Snake game in C++.
 The game is played in a console window and the user can control the snake using the 'w',
